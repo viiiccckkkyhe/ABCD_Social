@@ -3,7 +3,7 @@
 ## Instructions
 
 - While the stimuli are displayed, remember their locations.
-- During the **planning phase**, **plan the path** according to trial instruction:
+- During the **planning phase**, **plan the path** according to trial instruction, and press **Space** when ready:
   - **Plan for self:** follow the self sequence.
   - **Plan for partner:** follow the partner sequence.
 - During the **execution phase**, execute your planned path using the **arrow keys** to move the green marker.
